@@ -11,7 +11,7 @@
 ##### Hứa Văn Dũng (Student142071)
 =======================================
 
-Documentations : (https://github.com/tainguyen0211/Wedding-Planner_Group03/tree/main/Documentations )
+Documentations : (https://github.com/tainguyen0211/eProject-Sem01_T1.2209.M0_WeddingPLanner_Group03_Coding/tree/main/Documentations )
 
 =======================================
 
