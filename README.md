@@ -14,7 +14,7 @@ Documentations : (https://github.com/tainguyen0211/eProject-Sem01_T1.2209.M0_Wed
 
 =======================================
 
-Published website : (https://tainguyen0211.github.io/eProject-Sem01_T1.2209.M0_WeddingPLanner_Group03_Coding/)
+Published website : (https://tainguyen0211.github.io/eProject-Sem01_T1.2209.M0_WeddingPLanner_Group03_FinalSubmit/)
 
 =======================================
 
